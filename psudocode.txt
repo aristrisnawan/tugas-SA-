@@ -1,0 +1,13 @@
+Deklarasi
+i,j,a : integer
+
+Algoritma
+j = 5
+for(i<-0 to j) do
+if (semua angka 1-6 di bandingkan dengan angka yang 
+   ada di dalam baris and yang ada dalam kolom and dalam kotak) then
+	tampilkan angka yang tidak sama
+else if
+   tampilkan angka
+endif
+endfor
